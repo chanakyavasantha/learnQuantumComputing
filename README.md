@@ -46,5 +46,8 @@ Reversible computing offers several advantages in the context of quantum computi
 ![Screenshot from 2023-07-06 19-43-15](https://github.com/chanakyavasantha/learnQuantumComputing/assets/93817654/ba715d1c-8be3-422a-903b-f8ea0147a82f)
 - in the above example tensor product of two tensors is performed : [ x0, y0 ] ⊗ [ x1, y1 ]
 - representing multiple cbits as |01> means |0> ⊗ |1>
+- this tensored represntation is called the product state
+- a product state can be factored back into the individual state representation
+- The product state of n bits is a vector of size $2^n$
 
 
