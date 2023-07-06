@@ -44,5 +44,7 @@ Reversible computing offers several advantages in the context of quantum computi
 
 ### Tensor Porduct of vectors & Representation of multiple qbits:
 ![Screenshot from 2023-07-06 19-43-15](https://github.com/chanakyavasantha/learnQuantumComputing/assets/93817654/ba715d1c-8be3-422a-903b-f8ea0147a82f)
+- in the above example tensor product of two tensors is performed : [ x0, y0 ] ⊗ [ x1, y1 ]
+- representing multiple cbits as |01> means |0> ⊗ |1>
 
 
