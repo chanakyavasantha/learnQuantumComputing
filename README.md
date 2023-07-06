@@ -39,4 +39,6 @@ Reversible computing offers several advantages in the context of quantum computi
 - **Reduced Energy Consumption:** By avoiding irreversible operations, reversible computing in quantum systems helps reduce energy dissipation, making quantum computations more efficient.
 
 - **Error Correction and Fault Tolerance:** Reversibility is crucial for error correction techniques, as it allows for the correction of errors without compromising the integrity of the computation.
+### infact all quantum operators are their own inverses:
+![Screenshot from 2023-07-06 18-06-50](https://github.com/chanakyavasantha/learnQuantumComputing/assets/93817654/36a1c996-b9c3-4b3b-be8f-536697373290)
 
