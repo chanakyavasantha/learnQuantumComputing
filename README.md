@@ -42,3 +42,7 @@ Reversible computing offers several advantages in the context of quantum computi
 ### infact all quantum operators are their own inverses:
 ![Screenshot from 2023-07-06 18-06-50](https://github.com/chanakyavasantha/learnQuantumComputing/assets/93817654/36a1c996-b9c3-4b3b-be8f-536697373290)
 
+### Tensor Porduct of vectors & Representation of multiple qbits:
+![Screenshot from 2023-07-06 19-43-15](https://github.com/chanakyavasantha/learnQuantumComputing/assets/93817654/ba715d1c-8be3-422a-903b-f8ea0147a82f)
+
+
