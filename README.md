@@ -1,4 +1,5 @@
-# Syllabus
+# LEARN QUANTUM COMPUTING:
+## Syllabus
 
 - **Representing Computation with Basic Linear Algebra**
 - *Qubits, Superposition, and Quantum Logic Gates*
