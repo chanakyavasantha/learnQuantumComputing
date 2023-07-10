@@ -52,13 +52,22 @@ Reversible computing offers several advantages in the context of quantum computi
 - The product state of n bits is a vector of size $2^n$
 
 ### Operations on multiple Cbits:
-### **CNOT GATE**.
+### **CNOT GATE**:
 - C-Not gate operates on pair of bits one of which is `control bit` and other is `target bit`
 - if the `control bit` is 1 , the target is flipped, else it stays the same.
 - The most significant bit is the control bit & the least significant bit is the target bit
 - The control bit is always un-changed
 - Here is a demonstration of C-Not Gate:
 ![Screenshot from 2023-07-06 20-16-42](https://github.com/chanakyavasantha/learnQuantumComputing/assets/93817654/b510512f-b54a-4269-bce9-2a00ed6bc1f1)
+- CNOT GATE Example:
+
+### Qbits and Superposition:
+- A qbit is represented by (a b) where a and b are just complex numbers and $|a|^2$ + $|b|^2$ = 1
+- cbits are a special case of qbits
+- Qbits examples:
 
 
+
+### **HADAMARD GATE**:
+- 
 
