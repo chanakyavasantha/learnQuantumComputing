@@ -66,8 +66,12 @@ Reversible computing offers several advantages in the context of quantum computi
 - cbits are a special case of qbits
 - Qbits examples:
 
-
+### Operations on qbits:
+- operations on qbits are sames as operations on matrices
+- All the matrix opertions we've seen also work on qbits (bit flip, CNOT, etc.)
 
 ### **HADAMARD GATE**:
+- The hadamard gate takes a 0 or 1-bit and puts it into exactly equal superposition
+- **EXAMPLE**:
 - 
 
